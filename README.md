@@ -80,6 +80,6 @@
 <p align="center">
   <a href="https://github.com/pristoncarheis">
     <img height="180em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pristoncarheis&theme=tokyonight"/>
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pristoncarheis&theme=tokyonight"/>
+    <img height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=pristoncarheis&theme=tokyonight"/>
   </a>
 </p>
