@@ -68,7 +68,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe%20illustrator)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=blue)&nbsp;
 
-<br>
 
 <!-- GitHub Profile Stats -->
 <div id="user-content-toc">
@@ -77,6 +76,7 @@
   </ul>
 </div>
 
+<!-- GitHub graphics -->
 <p align="center">
   <a href="https://github.com/pristoncarheis">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pristoncarheis&theme=tokyonight"/>
