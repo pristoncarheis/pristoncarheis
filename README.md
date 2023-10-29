@@ -5,8 +5,6 @@
   </ul>
 </div>
 
-
-
 <!--- Snake -->
 <div align="center">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/43b83cd078271a9cfb8b7eae5b7fa6533a51bd27/resources/img/grid-snake.svg"/>
