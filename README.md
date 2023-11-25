@@ -10,9 +10,7 @@
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/43b83cd078271a9cfb8b7eae5b7fa6533a51bd27/resources/img/grid-snake.svg"/>
 </div>
 
-
 <br>
-
 
 <!-- About me -->
 <div id="user-content-toc">
@@ -30,10 +28,7 @@
 
 - 📫 Feel free to reach me out **pcrc_17@hotmail.com**
 
-
-
 <br>
-
 
 <!-- Skills -->
 <div id="user-content-toc">
