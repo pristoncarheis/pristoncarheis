@@ -37,12 +37,8 @@
   </ul>
 </div>
 
-
-
 <!-- Skills Img -->
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-
-
 
 <!-- Skills start-->
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)&nbsp;
@@ -71,16 +67,12 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe%20illustrator)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=blue)&nbsp;
 
-
-
 <!-- GitHub Profile Stats -->
 <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">💻 GitHub Stats</h2></summary>
   </ul>
 </div>
-
-
   
 </div>
 
