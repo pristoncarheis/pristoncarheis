@@ -37,8 +37,10 @@
   </ul>
 </div>
 
+
 <!-- Skills Img -->
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
 
 <!-- Skills start-->
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)&nbsp;
