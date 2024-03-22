@@ -12,7 +12,6 @@
 
 <br>
 
-
 <!-- About me -->
 <div id="user-content-toc">
   <ul align="left">
@@ -37,7 +36,6 @@
     <summary><h2 style="display: inline-block">🛠 Languages and Tools</h2></summary>
   </ul>
 </div>
-
 
 <!-- Skills Img -->
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
